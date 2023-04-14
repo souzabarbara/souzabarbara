@@ -1,4 +1,4 @@
-## 👩‍💻 Olá! Eu sou Bárbara Souza, estudante de Desenviolvimento Web!!
+## 👩‍💻 Olá! Eu sou Bárbara Souza, estudante de Desenvolvimento Web!!
 
 <div>
   <a href="https://github.com/souzabarbara">
