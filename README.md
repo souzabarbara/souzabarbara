@@ -1,7 +1,7 @@
 ## 👩‍💻 Olá! Eu sou Bárbara Souza, estudante de Desenvolvimento Web!!
 
 <div>
-  <p> 🌸 Sou apaixonada por tecnologia, arte e café.</p>
+  <p>- Sou apaixonada por tecnologia, arte e café. 💻🎨☕️</p>
 
 <div>
   <a href="https://github.com/souzabarbara">
