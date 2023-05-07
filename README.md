@@ -1,6 +1,9 @@
 ## 👩‍💻 Olá! Eu sou Bárbara Souza, estudante de Desenvolvimento Web!!
 
 <div>
+  <p>Sou apaixonada por tecnologia, arte e café.</p>
+
+<div>
   <a href="https://github.com/souzabarbara">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=souzabarbara&theme=nightowl&show_icons=true"/>
 <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzabarbara&theme=nightowl&layout=compact"/>
