@@ -1,4 +1,4 @@
-## 👩‍💻 Olá! Eu sou Bárbara Souza, estudante de Desenvolvimento Web!!
+## 👩‍💻 Olá! Eu sou Bárbara Souza, Desenvolvedora Web!!
 
 <div>
   <p>- Sou apaixonada por tecnologia, arte e café. 💻🎨☕️</p>
